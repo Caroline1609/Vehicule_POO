@@ -26,7 +26,6 @@ $v2 = new Voiturecourse("ferrari", "testarossa", "ferrari", 350, 1505);
 
 echo "<h2>Voiture de course</h2>";
 echo "<p>" . $v2 . "</p>";
-echo "<p>Vitesse max calculée : " . $v2->vitesseMax() . " km/h</p>";
 ?>
 
 </body>
